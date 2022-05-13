@@ -5,7 +5,7 @@
     it easier to understand the code, "alt" features were added to images 
     in HTML and the CSS is now in proper order.
 
-Link to Website: https://ianbridges.github.io/Module-1-Challenge/
+[Website](https://ianbridges.github.io/Module-1-Challenge/)
 
 LIST OF CHANGES MADE
 
@@ -20,3 +20,5 @@ CSS
 - Reorganized to be in order with the website
 - Comments added to show sections
 - "div" selector switched to "nav" due to added HTML semantic
+
+![Image](/assets/images/Challenge%201.png)
