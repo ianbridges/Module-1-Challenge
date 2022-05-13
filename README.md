@@ -5,6 +5,7 @@
     it easier to understand the code, "alt" features were added to images 
     in HTML and the CSS is now in proper order.
 
+Link to Website: https://ianbridges.github.io/Module-1-Challenge/
 
 LIST OF CHANGES MADE
 
